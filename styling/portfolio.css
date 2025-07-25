@@ -108,7 +108,7 @@ p {
 /*work*/
 
 .container-section h3 {
-  font-size: 24px;
+  font-size: 25px;
   margin: 20px 0;
   font-family: var(--default-font-family);
   font-weight: bold;
@@ -183,3 +183,4 @@ footer .social-links a:hover {
     padding: 0;
   }
 }
+
