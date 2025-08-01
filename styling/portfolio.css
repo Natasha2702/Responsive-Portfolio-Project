@@ -163,6 +163,8 @@ footer .social-links a:hover {
   background: var(--branding-color);
 }
 
+
+
 @media (max-width: 960px) {
   .project-description {
     padding: 0;
