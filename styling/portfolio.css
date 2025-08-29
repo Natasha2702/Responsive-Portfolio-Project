@@ -163,7 +163,26 @@ footer .social-links a:hover {
   background: var(--branding-color);
 }
 
+.dictionary{width: 400px;
+height: 400px;
+margin: 0 auto;}
 
+.portfolio{width: 450px;
+margin: 0 auto;}
+
+.reactweather{margin: 0 auto;
+text-align: center;}
+
+.landingtwo{text-align: center;}
+
+.weatherapp{text-align: center;}
+
+.clock{text-align: center;}
+
+.converter{text-align: center;}
+
+.diploma{margin-top: 20px;
+margin-left: 170px;}
 
 @media (max-width: 960px) {
   .project-description {
@@ -184,5 +203,6 @@ footer .social-links a:hover {
     text-align: center;
     padding: 0;
   }
+  
 }
 
